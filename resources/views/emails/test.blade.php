@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    一封来自Laravel学院的测试邮件
+    一封来自Laravel学院的测试邮件1221
 </body>
 </html>
